@@ -1,3 +1,5 @@
+This repository contains the code and data processing scripts used in the paper titled "StudentMEH Dataset: Mental Health Screening via Fitbit Data Collected During COVID-19.
+
 # StudentMEH-Fitbit-ML
 
 # StudentMEH Dataset: Mental Health Screening via Fitbit Data Collected During COVID-19
